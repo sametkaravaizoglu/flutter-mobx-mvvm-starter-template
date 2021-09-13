@@ -1,3 +1,3 @@
-# Flutter MVVM MOBX Base Starter Template
+# Flutter Mobx Base Starter MVVM Template
 
 
